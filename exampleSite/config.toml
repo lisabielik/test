@@ -163,7 +163,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/Hyperproof-logo.png"
 # Meta data
 description = "Welcome to Hyperproof's support portal. Find out how to set up and use Hyperproof. Learn about features and get answers to your questions."
 author = "Hyperproof"
