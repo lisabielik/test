@@ -221,7 +221,7 @@ copyright = "Copyright &copy; 2020"
 [Languages.en.banner]
 title = "How can we help?"
 subtitle = "/"
-image = "images/banner.jpg"
+image = "images/group-work.png.webp"
 
 # call to action
 [Languages.en.call_to_action]
