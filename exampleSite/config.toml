@@ -1,11 +1,11 @@
-######################## default configuration ####################
+r######################## default configuration ####################
 baseURL = "http://demo.themefisher.com/godocs-hugo/style-1/"
-title = "Hugo documentation theme"
+title = "Hyperproof: Support"
 theme = "godocs-1"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = [yes] 
 
 # hugo outputs
 [outputs]
@@ -115,25 +115,25 @@ url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Github"
-url = "https://github.com/themefisher/"
+name = "Get in touch"
+url = 
 weight = 2
 
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "Changelog"
-url = "changelog"
+name = "Release notes"
+url = "releasenotes"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "contact"
-url = "contact"
+name = "GitHub repository"
+url = "githubrepository"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Github"
-url = "https://github.com/themefisher/"
+name = "Contact"
+url = "contact"
 weight = 3
 
 
