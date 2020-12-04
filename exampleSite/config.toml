@@ -1,4 +1,3 @@
-r######################## default configuration ####################
 baseURL = "http://demo.themefisher.com/godocs-hugo/style-1/"
 title = "Hyperproof: Support"
 theme = "godocs-1"
