@@ -114,7 +114,7 @@ url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Get in touch"
+name = "Get started"
 url = "/"
 weight = 2
 
@@ -126,14 +126,9 @@ url = "/"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "GitHub repository"
-url = "/"
-weight = 2
-
-[[Languages.en.menu.footer]]
 name = "Contact"
 url = "/"
-weight = 3
+weight = 2
 
 
 ############## French navigation ###############
@@ -170,8 +165,8 @@ weight = 3
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Welcome to Hyperproof's support portal. Find out how to set up and use Hyperproof. Learn about features and get answers to your questions."
+author = "Hyperproof"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
@@ -220,18 +215,18 @@ languageName = "En"
 languageCode = "en-us"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020"
 
 # banner
 [Languages.en.banner]
-title = "Documentation Theme By Themefisher Team"
-subtitle = "Lorem ipsum dolor amet, consetetur sadiffspscing elitr, diam nonumy invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua At."
+title = "How can we help?"
+subtitle = "/"
 image = "images/banner.jpg"
 
 # call to action
 [Languages.en.call_to_action]
 enable = true
-title = "Still Didn't Find Your Answer?"
+title = "Still didn't find your answer?"
 image = "images/cta-illustration.jpg"
 content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam <br> nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
 
