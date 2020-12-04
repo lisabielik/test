@@ -8,9 +8,9 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open Sans:300,400,500,600,700,800&display=swap");
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   line-height: 1.6;
@@ -21,11 +21,11 @@ p, .paragraph {
   color: #333;
   font-size: 16px;
   line-height: 26px;
-  font-family: "Montserrat", sans-serif; }
+  font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #222;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   line-height: 1.2; }
 
@@ -60,7 +60,7 @@ h6, .h6 {
 /* Button style */
 .btn {
   font-size: 16px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
   padding: 13px 30px;
   border-radius: 6px;
@@ -77,20 +77,20 @@ h6, .h6 {
     padding: 10px 25px; }
 
 .btn-primary {
-  background: #FF0043;
-  color: #fff;
-  border-color: #FF0043; }
+  background: #6270c6;
+  color: #ffffff;
+  border-color: transparent; }
   .btn-primary:active, .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary.active {
-    background: #cc0036 !important;
-    border-color: #cc0036 !important; }
+    background: #ffffff !important;
+    border-color: #6270c6 !important; }
 
 .btn-outline-primary {
   background: transparent;
-  color: #FF0043;
-  border-color: #FF0043; }
+  color: #6270c6;
+  border-color: #6270c6; }
   .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary.focus, .btn-outline-primary.active {
-    background: #cc0036 !important;
-    border-color: #cc0036 !important;
+    background: #ffffff !important;
+    border-color: #6270c6 !important;
     color: #fff; }
 
 body {
