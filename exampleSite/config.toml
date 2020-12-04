@@ -115,24 +115,24 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "Get in touch"
-url = 
+url = "/"
 weight = 2
 
 
 # footer menu
 [[Languages.en.menu.footer]]
 name = "Release notes"
-url = "releasenotes"
+url = "/"
 weight = 1
 
 [[Languages.en.menu.footer]]
 name = "GitHub repository"
-url = "githubrepository"
+url = "/"
 weight = 2
 
 [[Languages.en.menu.footer]]
 name = "Contact"
-url = "contact"
+url = "/"
 weight = 3
 
 
